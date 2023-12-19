@@ -1,0 +1,27 @@
+#Home{
+    background-color: #f0f0f0;
+    margin:10%;
+    border: 4px solid rgb(165, 0, 247);
+}
+#name{
+    margin-left: 40px;
+    border: 3px solid black;
+    font-size: large;
+}
+#age{
+    margin-left: 40px;
+    border: 3px solid black;
+    font-size: large;
+}
+#selectedBatch{
+    margin-left: 40px;
+    font-size: large;
+    border: 3px solid black;
+}
+#enroll{
+    margin-top: 20px;
+    margin-left: 80px;
+    font-size: large;
+    
+    border: 3px solid black;
+}
