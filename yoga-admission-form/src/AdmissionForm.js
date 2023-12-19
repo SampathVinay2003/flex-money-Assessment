@@ -38,7 +38,7 @@ const AdmissionForm = () => {
       return;
     }
     try {
-      const response = await fetch('http://localhost:3001/admission', {
+      const response = await fetch('https://flex-money-assessment-jx1q.vercel.app/admission', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
